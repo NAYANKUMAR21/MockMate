@@ -17,7 +17,7 @@
 - **Real-time Feedback**: Get instant analysis on your answers, communication skills, and technical knowledge
 - **Comprehensive Analytics**: Track your progress with detailed performance metrics
 - **Multiple Interview Tracks**: Prepare for various technical roles including Frontend, Backend, Full Stack, and more
-- **Session Recording**: Review your interview sessions with audio/video playback
+- **Session Recording**: Review your interview sessions with audio/video playback (Upcomming Feature)
 - **Personalized Questions**: Dynamic question generation based on your experience level and role
 - **Authentication**: Secure user authentication with email/password and social logins
 
